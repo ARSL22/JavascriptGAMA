@@ -1,5 +1,5 @@
 Neste Projecto abordamos JavaScript Basico, em que consistiu em como adicionar interectividade e dinamismo a um site com javascript.
-Iniciamos com uma intruduçao ao Javascript e as  variaveis.
+Iniciamos com uma introduçao ao Javascript e as  variaveis.
 Seguimos com os :
 Numeros e Operadores;
 Boas praticas em JavaScript;
